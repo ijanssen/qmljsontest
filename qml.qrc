@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Button.qml</file>
+        <file>qml/Editor.qml</file>
+        <file>qml/api.js</file>
+        <file>qml/Hospitals.qml</file>
+        <file>qml/Login.qml</file>
+        <file>qml/MessageList.qml</file>
+        <file>qml/ErrorPanel.qml</file>
+    </qresource>
+</RCC>
